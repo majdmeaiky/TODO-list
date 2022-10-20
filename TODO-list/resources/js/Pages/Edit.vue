@@ -97,13 +97,6 @@ export default{
 }
 
 
-    
-
-// import route from 'vendor/tightenco/ziggy/src/js';
-
-
-
-
 
 </script>
 <template>

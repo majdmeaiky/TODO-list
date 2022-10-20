@@ -81,7 +81,6 @@
 </style>
 <script setup>
 
-//import BreezeAuthenticatedLayout from '@/Layouts/Authenticated.vue';
 import { Head, Link, useForm } from '@inertiajs/inertia-vue3';
 
 

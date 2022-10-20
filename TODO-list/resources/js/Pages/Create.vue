@@ -77,14 +77,6 @@ export default {
         return { form }
     },
    
-        // const form = useForm({
-        //     TaskName: '.',
-        //     Description: '.'
-        // });
-        // const submit = () => {
-        // form.post(route('tasks.index'));
-        // return form;
-        //     };
         methods: {
             submitbtn(){
                 if(this.form.TaskName==''||this.form.Description=='')

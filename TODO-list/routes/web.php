@@ -49,7 +49,5 @@ route::get('/tasks/edit/{id}',[TaskController::class,'edit'])->name('tasks.edit'
 
 require __DIR__.'/auth.php';
 
-//   route::resource('tasks',TaskController::class);
 
-// route::Inertia('/tasks/create','Create.vue');
 
